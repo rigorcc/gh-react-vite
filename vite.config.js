@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base:'http://https://rigorcc.github.io/',
+  base:'https://https://rigorcc.github.io/',
   plugins: [react()]
 })
